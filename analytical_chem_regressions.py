@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct  3 00:18:03 2021
-
-@author: arnau
-"""
 class Regr:
   def xs(self, valor, num_xs):
     import math
